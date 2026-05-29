@@ -1,2 +1,2 @@
 # first-repo
-My first GitHub repository
+Hello IT-15000 Class!My first GitHub repository!
